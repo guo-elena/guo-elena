@@ -9,7 +9,9 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on cool projects such as this one (hopefully)
 - 🤔 I’m looking for help with summer 2023 internship opportunities
 - 💬 Ask me about my journey with computer science so far
-- 📫 How to reach me: Email: elenaopenworld@gmail.com Linkedin: htpps://linkedin.com/in/guo-elena/
+- 📫 How to reach me: 
+    - Email: elenaopenworld@gmail.com
+    - Linkedin: https://linkedin.com/in/guo-elena/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was born in Montreal! 
 
