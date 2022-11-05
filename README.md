@@ -13,5 +13,4 @@ Here are some ideas to get you started: -->
     - Email: elenaopenworld@gmail.com
     - Linkedin: https://linkedin.com/in/guo-elena/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I was born in Montreal! 
-
+- ⚡ Fun fact: I was born in Montreal! But now I live in Vancouver :)
