@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on building my first ever hackathon project @ HackCamp 2022!
+<!-- - 🔭 I’m currently working on building my first ever hackathon project @ HackCamp 2022!
 - 🌱 I’m currently learning basic data structures and algorithms
 - 👯 I’m looking to collaborate on cool projects such as this one (hopefully)
 - 🤔 I’m looking for help with summer 2023 internship opportunities
@@ -13,4 +13,4 @@ Here are some ideas to get you started: -->
     - Email: elenaopenworld@gmail.com
     - Linkedin: https://linkedin.com/in/guo-elena/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I was born in Montreal! But now I live in Vancouver :)
+- ⚡ Fun fact: I was born in Montreal! But now I live in Vancouver :) -->
