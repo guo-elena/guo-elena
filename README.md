@@ -1,8 +1,8 @@
-### Hi there, I'm Elena! 👋
+### I'm Elena 👋
 
-I'm a rising sophomore studying Business and Computer Science at the University of British Columbia. I'm eager to collaborate on cool projects with cool people, both in the product + software space. 
+Rising junior studying Business and Computer Science at the University of British Columbia. Eager to collaborate on cool projects with cool people, both in the product + software space. 
 
-You can reach me at elena.guo@cus.ca or via [LinkedIn](https://linkedin.com/in/guo-elena/)!
+Reach me at elenaopenworld@gmail.com or via [LinkedIn](https://linkedin.com/in/guo-elena/)!
 
 
 
