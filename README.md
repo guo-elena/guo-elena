@@ -1,8 +1,8 @@
-### I'm Elena 👋
+### Hello, I'm Elena 👋
 
 Rising junior studying Business and Computer Science at the University of British Columbia. Eager to collaborate on cool projects with cool people, both in the product + software space. 
 
-Reach me at elenaopenworld@gmail.com or via [LinkedIn](https://linkedin.com/in/guo-elena/)!
+Reach me at elenaopenworld@gmail.com or on [LinkedIn](https://linkedin.com/in/guo-elena/)!
 
 
 
